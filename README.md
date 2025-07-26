@@ -11,6 +11,15 @@ Venture into the wastes, face down mutants, and scavenge whatever you can to kee
 
 ---
 
+## How to Play
+
+- Download the `.exe` file from the [Releases](https://github.com/your-url-here/releases) tab.
+- Run the game on Windows.
+- Use WASD to move, mouse to aim and shoot.
+- Survive as long as possible while defeating waves of enemies.
+
+---
+
 > **Disclaimer**:  
 > This game is a **non-commercial personal project**, created solely for educational and portfolio purposes.  
 > All assets and references to *Vault-Tec* or similar entities are inspired by fictional universes and are not affiliated with or endorsed by any official license holders.
