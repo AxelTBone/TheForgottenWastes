@@ -3,7 +3,7 @@
 _A top-down, wave-based survival shooter created in Unity (C#)._
 
 Step into a ruined world where survival is measured in seconds.  
-You are the vault’s last hope—sent to the surface to scavenge what remains and hold off the mutants.
+You are the vault’s last hope, sent to the surface to scavenge what remains and hold off the mutants.
 
 ---
 
