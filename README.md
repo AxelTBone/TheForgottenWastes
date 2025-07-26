@@ -14,7 +14,6 @@ You are the vault’s last hope, sent to the surface to scavenge what remains an
 - 💊 Pickups (healing kits, supplies)  
 - 🧠 Object-oriented programming structure  
 - 🔊 Atmospheric soundscape  
-- 🎨 Pixel-style UI elements  
 
 ---
 
