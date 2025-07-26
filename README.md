@@ -2,6 +2,20 @@
 
 _A top-down, wave-based survival shooter created in Unity (C#)._
 
+> ⚠️ **Disclaimer**  
+> This is a **non-commercial personal project**, created solely for learning and portfolio development.  
+> All assets (visual, audio, and design) are either:  
+> – Created independently  
+> – Sourced from **royalty-free**, **free-to-use**, or **public domain** collections  
+> – Modified to be unique and original in presentation  
+>  
+> Some thematic elements are inspired by existing post-apocalyptic media, including tabletop maps and games.  
+> Any references to _Vault-Tec_ or similar entities are **fictional** and **not affiliated with or endorsed** by any license holder.  
+>  
+> **No commercial use. No redistribution. No affiliation. Educational only.**
+
+---
+
 Step into a ruined world where survival is measured in seconds.  
 You are the vault’s last hope, sent to the surface to scavenge what remains and hold off the mutants.
 
@@ -41,19 +55,3 @@ You are the vault’s last hope, sent to the surface to scavenge what remains an
 - Windows 10 or later  
 - Mouse + Keyboard  
 - .NET Desktop Runtime (if not bundled)
-
----
-
-## ⚠️ Disclaimer
-
-This is a **non-commercial personal project**, created solely for learning and portfolio development.  
-All assets (visual, audio, and design) are either:
-
-- Created independently
-- Sourced from **royalty-free**, **free-to-use**, or **public domain** collections  
-- Modified to be unique and original in presentation
-
-Some thematic elements are inspired by existing post-apocalyptic media, including tabletop maps and games.  
-Any references to _Vault-Tec_ or similar entities are **fictional** and **not affiliated with or endorsed** by any license holder.
-
-> No commercial use. No redistribution. No affiliation. Educational only.
