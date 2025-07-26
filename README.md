@@ -19,28 +19,14 @@ _A top-down, wave-based survival shooter created in Unity (C#)._
 Step into a ruined world where survival is measured in seconds.  
 You are the vault’s last hope, sent to the surface to scavenge what remains and hold off the mutants.
 
----
 
-## 🎮 Gameplay Features
+## 📦 Requirements
 
-- ✅ Enemy AI with varied behaviors and pathfinding  
-- 📈 Score, high score, and supply tracking  
-- 💊 Pickups (healing kits, supplies)  
-- 🧠 Object-oriented programming structure  
-- 🔊 Atmospheric soundscape  
+- Windows 10 or later  
+- Mouse + Keyboard  
+- .NET Desktop Runtime (if not bundled)
 
----
-
-## 🕹️ How to Play
-
-1. **WASD** – Move your character  
-2. **Mouse** – Aim  
-3. **Left Click** – Shoot  
-4. **Avoid enemies**, **grab pickups**, and **survive as long as possible**  
-5. Track your high score in the corner of the screen  
-
----
-
+  
 ## 💻 Running the Game
 
 1. Download the latest release from the [Releases](../../releases) tab  
@@ -48,10 +34,20 @@ You are the vault’s last hope, sent to the surface to scavenge what remains an
 3. Run `TheForgottenWastes.exe`  
 4. No installation needed. Windows only.
 
----
 
-## 📦 Requirements
+## 🕹️ How to Play
 
-- Windows 10 or later  
-- Mouse + Keyboard  
-- .NET Desktop Runtime (if not bundled)
+1. **WASD** – Move your character  
+2. **Mouse** – Aim  
+3. **Left Click** – Shoot  
+4. **Avoid enemies**, **grab pickups**, and **survive as long as possible**  
+5. Track your high score in the corner of the screen
+
+   
+## 🎮 Gameplay Features
+
+- ✅ Enemy AI with varied behaviors and pathfinding  
+- 📈 Score, high score, and supply tracking  
+- 💊 Pickups (healing kits, supplies)  
+- 🧠 Object-oriented programming structure  
+- 🔊 Atmospheric soundscape
